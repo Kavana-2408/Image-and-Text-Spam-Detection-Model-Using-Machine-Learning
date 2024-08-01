@@ -27,21 +27,31 @@ The frontend of the model is available:
 - Running the Application
 
 a. Open PyCharm:
+
 b. Make sure you have PyCharm installed and open the project directory.
+
 In PyCharm, open the terminal or use the terminal tab.
+
 c. Run the following command to start the Streamlit application:
+
  It has several webpages
  -"streamlit run app.py" combined spam detection
+
  -"streamlit run text-or-image.py" has option to choose image or spam
+
  -"streamlit run image-detection.py" has only image spam detection model 
+
  -"streamlit run text-detection.py" has only text spam detection
 
+ d. You can run the following model by using the random dataset provided to test the model in streamlit 
 
 
- Output Screenshot
+
+ Output Screenshot:
+ ![Screenshot (52)](https://github.com/user-attachments/assets/acc5e924-de06-4eda-80b7-b68e4c1d9776)
+
  
- ![Screenshot (52)](https://github.com/user-attachments/assets/cab22a8f-ad59-4858-b447-bd9c976a86ce)
-
+ 
 
 
 
