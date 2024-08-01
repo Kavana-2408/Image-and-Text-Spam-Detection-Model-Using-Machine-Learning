@@ -1,5 +1,6 @@
 # Image-and-Text-Spam-Detection-Model-Using-Machine-Learning
 Spam detection model  that integrates text and image analysis.
+
 Clone the repo
 In the folder "Model Training"
 You can train the Models respectively in Jupyter
